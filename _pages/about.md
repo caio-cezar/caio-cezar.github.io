@@ -1,10 +1,10 @@
 ---
-title: "About"
-permalink: /about/
+title: "Sobre"
+permalink: /Sobre/
 header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+Eu me chamo caio!
 
 Etc, etc, etc
