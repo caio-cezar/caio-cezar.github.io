@@ -16,7 +16,7 @@ description              : "Engenharia de Produção @ CEFET-RJ"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/images/colantemplate.jpg"
+teaser                   : # Nothing important
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
