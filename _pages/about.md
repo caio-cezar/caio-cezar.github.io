@@ -2,7 +2,7 @@
 title: "Sobre mim"
 permalink: /sobre/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/colantemplate.jpg"
 ---
 
 Eu me chamo Caio Cezar e sou Graduando em Engenharia de Produção pelo CEFET-RJ. Sou apaixonado por matemática, computação e ciência, me caracterizando por ter boas capacidades analíticas e senso investigativo.
