@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Caio Cezar"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/minhafoto.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Engenharia de Produção @ CEFET-RJ"
   location         : "Rio de Janeiro, Brasil"
   email            :
