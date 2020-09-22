@@ -2,7 +2,7 @@
 title: "Sobre"
 permalink: /sobre/
 header:
-  image: "/images/aulacolan.jpg"
+  image: "/images/layoutaula.jpg"
 ---
 
 Eu me chamo Caio Cezar e sou Graduando em Engenharia de Produção pelo CEFET-RJ. Sou apaixonado por matemática, computação e ciência, me caracterizando por ter boas capacidades analíticas e senso investigativo.
